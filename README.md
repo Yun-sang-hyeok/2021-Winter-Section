@@ -12,22 +12,22 @@ Yun Sang Hyeok's challenge
 ###### This is a H6
 
 <hr />
->This is a first blockquote.
-> >This is a a second blockquote.
-> > >This is a third blockquote.
+>This is a first blockquote.<br/>
+> >This is a a second blockquote.<br/>
+> > >This is a third blockquote.<br/>
 
 <hr />
-*빨강
-    *노랑
-        *파랑
+* 빨강
+* 노랑
+* 파랑
 
--빨강
-    -노랑
-        -파랑
+- 빨강
+- 노랑
+- 파랑
     
-+빨강
-    +노랑
-        +파랑
++ 빨강
++ 노랑
++ 파랑
 
 
 <hr />
@@ -54,11 +54,11 @@ public class BootSpringBootApplication {
 
 [googlelink](https://google.com, "Go google")
 
-*single asterisk*
-_single underscores_
-**double asterisks**
-__double underscores__
-~~cancelline~~
+*single asterisk*<br/>
+_single underscores_<br/>
+**double asterisks**<br/>
+__double underscores__<br/>
+~~cancelline~~<br/>
 
 <img src="https://pbs.twimg.com/media/Eb_YLgLVAAATEry.jpg" width="956px" height="1200px" title="Crush" alt="Crush"></img><br/>
 
