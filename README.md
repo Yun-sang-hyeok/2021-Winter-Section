@@ -18,16 +18,16 @@ Yun Sang Hyeok's challenge
 
 <hr />
 *빨강
-*노랑
-*파랑
+    *노랑
+        *파랑
 
 -빨강
--노랑
--파랑
-
+    -노랑
+        -파랑
+    
 +빨강
-+노랑
-+파랑
+    +노랑
+        +파랑
 
 
 <hr />
@@ -61,7 +61,7 @@ _single underscores_
 __double underscores__
 ~~cancelline~~
 
-![Alt text](C:\Users\yshg9\OneDrive\Desktop\crush.jpg "Crush")
+<img src="C:\Users\yshg9\OneDrive\Desktop\crush.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
 
 
 
