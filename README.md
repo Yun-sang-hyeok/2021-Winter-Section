@@ -55,11 +55,11 @@ public class BootSpringBootApplication {
 
 [googlelink](https://google.com, "Go google")
 
-*single asterisk*<br/>
-_single underscores_<br/>
-**double asterisks**<br/>
-__double underscores__<br/>
-~~cancelline~~<br/>
+*single asterisk*   
+_single underscores_    
+**double asterisks**    
+__double underscores__   
+~~cancelline~~   
 
 <img src="https://pbs.twimg.com/media/Eb_YLgLVAAATEry.jpg" width="956px" height="1200px" title="Crush" alt="Crush"></img><br/>
 
