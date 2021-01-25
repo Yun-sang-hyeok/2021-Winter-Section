@@ -61,7 +61,7 @@ _single underscores_
 __double underscores__
 ~~cancelline~~
 
-<img src="https://pbs.twimg.com/media/Eb_YLgLVAAATEry.jpg" width="450px" height="300px" title="Crush" alt="Crush"></img><br/>
+<img src="https://pbs.twimg.com/media/Eb_YLgLVAAATEry.jpg" width="956px" height="1200px" title="Crush" alt="Crush"></img><br/>
 
 
 
