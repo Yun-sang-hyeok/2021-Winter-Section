@@ -31,6 +31,7 @@ Yun Sang Hyeok's challenge
 
 
 <hr />
+
 This is a normal paragraph:
 
   This is a code block.
