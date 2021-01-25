@@ -61,8 +61,8 @@ _single underscores_
 __double underscores__
 ~~cancelline~~
 
-<img src="C:\Users\yshg9\OneDrive\Desktop\crush.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img><br/>
-
+<img src="C:\Users\yshg9\OneDrive\Desktop\crush.jpg" width="450px" height="300px" title="Crush" alt="RubberDuck"></img><br/>
+![][C:\Users\yshg9\OneDrive\Desktop\crush.jpg]
 
 
 
