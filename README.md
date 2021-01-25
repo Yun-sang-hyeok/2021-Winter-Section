@@ -52,8 +52,7 @@ public class BootSpringBootApplication {
 </code>
 </pre>
 
-Link: [Google][googlelink]
-[googlelink]: https://google.com "Go google"
+[googlelink]: https://google.com, "Go google"
 
 *single asterisk*
 _single underscores_
